@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### I am currently a PhD candidate at Nanjing University of Posts and Telecommunications(NJUPT) under the supervision of Prof. PhD. Hao Gao
+### 🔭 I’m currently working on relightable and animatable avatar.
+### 🌱 I’m interested in computer graphics and computer vision.
 <!--
 **JiatengLiu/JiatengLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
